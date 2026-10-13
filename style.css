@@ -9,6 +9,7 @@
   --line: #cfdccb;
 }
 
+/* Fixed the hyphen typo to asterisk for proper global box-sizing */
 * {
   box-sizing: border-box;
 }
@@ -51,6 +52,7 @@ nav {
 
 nav ul {
   display: flex;
+  flex-wrap: wrap;
   gap: 1.5rem;
   margin: 0;
   padding: 0;
@@ -125,4 +127,88 @@ footer {
   border-top: 1px solid var(--line);
   text-align: center;
   color: var(--soil);
+}
+
+/* --- Individual Profile Page Layout --- */
+
+.page-title {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    color: var(--leaf);
+}
+
+.profile-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+}
+
+@media (min-width: 48rem) {
+    .profile-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.profile-card {
+    margin-bottom: 1.5rem;
+}
+
+.detail-list {
+    padding-left: 1.25rem;
+    margin: 0.5rem 0 0 0;
+    color: var(--ink);
+}
+
+.detail-list li {
+    margin-bottom: 0.5rem;
+}
+
+.svg-wrapper {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.profile-svg {
+    max-width: 100%;
+    height: 140px;
+}
+
+.svg-caption {
+    margin: 0.75rem 0 0 0;
+    font-weight: 700;
+    color: var(--leaf);
+    line-height: 1.3;
+}
+
+.svg-sub {
+    font-weight: 400;
+    font-size: 0.875rem;
+    color: var(--soil);
+}
+
+.media-column img.hero {
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+    border-radius: 0.5rem;
+    display: block;
+}
+
+/* --- Responsive & Mobile Overflow Fixes (Added safely) --- */
+@media (max-width: 40rem) {
+    .site-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    nav {
+        margin-left: 0;
+    }
+    nav ul {
+        gap: 1rem;
+    }
+}
+
+iframe {
+    max-width: 100%;
 }
