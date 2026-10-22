@@ -1,0 +1,46 @@
+{
+  "id": "chamomile",
+  "name": "German Chamomile",
+  "botanicalName": "Matricaria chamomilla",
+  "family": "Asteraceae (Daisy family)",
+  "category": "Medicinal / Tea",
+  "image": "images/chamomile.svg",
+  "imageAlt": "Illustration of chamomile flowers with white petals and yellow centers",
+  "description": "A cheerful annual covered in small daisy-like flowers with a sweet, apple-like scent. The dried flower heads are the world's best-known herbal tea, and the plant readily self-seeds in the garden.",
+  "growingConditions": {
+    "sunlight": "Full sun to partial shade",
+    "watering": "Regular, light watering; do not let seedlings dry out",
+    "hardinessZone": "Annual in all zones (Roman chamomile is hardy in zones 4-9)",
+    "soilType": "Well-draining, average to poor soil"
+  },
+  "uses": [
+    "Dried flower heads brewed as a calming tea",
+    "Infusing honey, syrups and desserts",
+    "Gentle skin rinses and herbal baths",
+    "Edible garnish for salads and cakes"
+  ],
+  "pairings": [
+    "Honey",
+    "Lemon",
+    "Apple",
+    "Vanilla",
+    "Lavender"
+  ],
+  "medicinal": {
+    "uses": [
+      "Chamomile tea is a classic evening drink to help you relax and wind down before sleep",
+      "Traditionally used to settle an upset stomach, gas and cramps",
+      "Cooled tea used as a mouth rinse or a soothing wash for minor skin irritation"
+    ],
+    "benefits": [
+      "Contains apigenin, an antioxidant linked to its mild calming effect",
+      "Has gentle anti-inflammatory properties",
+      "May ease mild digestive discomfort when taken as tea"
+    ],
+    "caution": "People allergic to ragweed, daisies, marigolds or chrysanthemums may react to chamomile. Ask your doctor first if you take blood thinners or are pregnant."
+  },
+  "video": {
+    "title": "How To Grow, Harvest & Make Chamomile Tea",
+    "youtubeId": "CNCw7z_KjE4"
+  }
+}
