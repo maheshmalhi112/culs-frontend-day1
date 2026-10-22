@@ -1,0 +1,46 @@
+{
+  "id": "chives",
+  "name": "Chives",
+  "botanicalName": "Allium schoenoprasum",
+  "family": "Amaryllidaceae (Onion family)",
+  "category": "Culinary",
+  "image": "images/chives.svg",
+  "imageAlt": "Illustration of chives with thin green blades and round purple flowers",
+  "description": "A tidy perennial with slender, hollow green leaves and a mild onion flavor. In late spring chives produce round purple pom-pom flowers that are edible and attract pollinators.",
+  "growingConditions": {
+    "sunlight": "Full sun to light shade",
+    "watering": "Keep soil evenly moist",
+    "hardinessZone": "Zones 3-9",
+    "soilType": "Rich, moist, well-draining soil"
+  },
+  "uses": [
+    "Snipped over eggs, potatoes and soups",
+    "Mixed into cream cheese, sour cream dips and butters",
+    "Edible flowers for salads and vinegars",
+    "Finishing herb for fish and baked potatoes"
+  ],
+  "pairings": [
+    "Eggs",
+    "Potatoes",
+    "Sour cream",
+    "Salmon",
+    "Soft cheese"
+  ],
+  "medicinal": {
+    "uses": [
+      "Traditionally eaten to stimulate the appetite and help digestion",
+      "Used in folk cooking to add flavor while reducing the need for salt",
+      "Sulfur compounds in the allium family were used in folk medicine for colds"
+    ],
+    "benefits": [
+      "Good source of vitamin K, and also provides vitamin C, vitamin A and folate",
+      "Contains flavonoid antioxidants and sulfur compounds",
+      "Adds flavor with almost no calories"
+    ],
+    "caution": "Chives are rich in vitamin K, so people on blood thinners such as warfarin should keep their intake steady. Chives and other alliums are toxic to cats and dogs, so keep them out of reach of pets."
+  },
+  "video": {
+    "title": "How to Plant and Grow Perennial Chives",
+    "youtubeId": "DTwt-jdaROI"
+  }
+}
