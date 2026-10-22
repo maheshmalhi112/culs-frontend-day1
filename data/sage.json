@@ -1,0 +1,46 @@
+{
+  "id": "sage",
+  "name": "Garden Sage",
+  "botanicalName": "Salvia officinalis",
+  "family": "Lamiaceae",
+  "category": "Culinary / Medicinal",
+  "image": "images/sage.svg",
+  "imageAlt": "Illustration of garden sage with soft grey-green leaves",
+  "description": "A hardy perennial with soft, silvery-green leaves and a warm, peppery, slightly piney flavor. Sage has been grown in kitchens and medicine gardens for centuries and its purple flowers are loved by bees.",
+  "growingConditions": {
+    "sunlight": "Full sun (6-8 hours a day)",
+    "watering": "Moderate; let the soil dry out between waterings",
+    "hardinessZone": "Zones 4-8",
+    "soilType": "Light, well-draining, neutral to slightly alkaline soil"
+  },
+  "uses": [
+    "Stuffing, roast poultry and pork",
+    "Fried in brown butter for pasta and gnocchi",
+    "Dried leaf tea and herbal gargles",
+    "Flavoring beans, soups and sausages"
+  ],
+  "pairings": [
+    "Brown butter",
+    "Butternut squash",
+    "Pork",
+    "Poultry",
+    "White beans"
+  ],
+  "medicinal": {
+    "uses": [
+      "Sage tea or a cooled infusion is a traditional gargle for sore throats and mouth irritation",
+      "Traditionally taken to ease mild indigestion and bloating",
+      "Folk remedy for excessive sweating and hot flashes"
+    ],
+    "benefits": [
+      "Contains rosmarinic acid and other antioxidants",
+      "Has natural antibacterial properties that help preserve food and freshen breath",
+      "Some small studies suggest sage extract may support memory and alertness"
+    ],
+    "caution": "Common sage contains thujone, so enjoy it in cooking and tea amounts only. Avoid medicinal doses and the essential oil during pregnancy or if you have epilepsy."
+  },
+  "video": {
+    "title": "Sage Growing Guide: Plant, Care, Prune, Harvest & Dry",
+    "youtubeId": "3VhWsdQ1DXg"
+  }
+}
