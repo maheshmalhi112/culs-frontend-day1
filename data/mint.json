@@ -1,0 +1,45 @@
+{
+  "id": "mint",
+  "name": "Spearmint",
+  "botanicalName": "Mentha spicata",
+  "family": "Lamiaceae (Mint family)",
+  "category": "Culinary & Medicinal",
+  "image": "https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?auto=format&fit=crop&w=800&q=80",
+  "description": "Mint is an energetic and cooling herb revered for its invigorating menthol aroma. It thrives easily in garden beds and containers, offering fresh leaves for summer drinks and savory dishes.",
+  "growingConditions": {
+    "sunlight": "Full sun to partial shade",
+    "watering": "Keep soil consistently moist",
+    "hardinessZone": "Zones 3-11 (Extremely hardy)",
+    "soilType": "Moist, fertile, well-draining soil"
+  },
+  "uses": [
+    "Garnish for classic Mojitos, Juleps, and lemonade",
+    "Brewed into soothing digestive herbal teas",
+    "Key herb in Middle Eastern tabbouleh and tzatziki sauces",
+    "Aromatherapy for mental focus and cooling sensation"
+  ],
+  "pairings": [
+    "Lime",
+    "Cucumber",
+    "Lamb",
+    "Chocolate",
+    "Green Tea"
+  ],
+  "video": {
+    "title": "How to Grow Mint in Containers (And Get a Huge Harvest)",
+    "youtubeId": "GqAwHdQ2klQ"
+  },
+  "medicinal": {
+    "uses": [
+      "Mint tea is a classic remedy for indigestion, gas and queasiness",
+      "Inhaled steam or aroma traditionally used to ease a stuffy nose",
+      "Chewed leaves freshen breath and soothe the mouth"
+    ],
+    "benefits": [
+      "Menthol gives a cooling, calming effect on the stomach and throat",
+      "Contains rosmarinic acid, an antioxidant",
+      "May help relax digestive muscles and ease discomfort after meals"
+    ],
+    "caution": "Mint can worsen acid reflux in some people. Concentrated mint oils should not be used on or near the face of babies and young children."
+  }
+}
