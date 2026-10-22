@@ -1,0 +1,44 @@
+{
+  "id": "thyme",
+  "name": "Garden Thyme",
+  "botanicalName": "Thymus vulgaris",
+  "family": "Lamiaceae",
+  "category": "Culinary",
+  "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+  "description": "A subtle, earthy herb that stands up to long cooking times in stews, soups, and roasts.",
+  "growingConditions": {
+    "sunlight": "Full sun",
+    "watering": "Drought tolerant; low water requirements",
+    "hardinessZone": "Zones 5-9",
+    "soilType": "Dry, well-draining soil"
+  },
+  "uses": [
+    "Bouquet garni in soups and stews",
+    "Flavoring grilled chicken and roast vegetables",
+    "Thymol extraction for natural throat soothe"
+  ],
+  "pairings": [
+    "Lemon",
+    "Garlic",
+    "Butter",
+    "Chicken",
+    "Mushrooms"
+  ],
+  "video": {
+    "title": "How To Grow Thyme",
+    "youtubeId": "u5HrvNtZblI"
+  },
+  "medicinal": {
+    "uses": [
+      "Thyme tea and syrup are long-standing remedies for coughs and sore throats",
+      "Used in natural mouthwashes and gargles for its antiseptic action",
+      "Steam inhalation traditionally used to loosen chest congestion"
+    ],
+    "benefits": [
+      "Thymol, its main compound, has antibacterial and antifungal properties",
+      "Good source of vitamin C and vitamin A",
+      "Antioxidants help protect cells from everyday damage"
+    ],
+    "caution": "Thyme essential oil is very strong and must be diluted. Culinary and tea amounts are considered safe for most people."
+  }
+}
