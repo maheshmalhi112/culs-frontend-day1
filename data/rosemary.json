@@ -1,0 +1,44 @@
+{
+  "id": "rosemary",
+  "name": "Rosemary",
+  "botanicalName": "Salvia rosmarinus",
+  "family": "Lamiaceae",
+  "category": "Culinary",
+  "image": "https://images.unsplash.com/photo-1515586000433-45406d8e6662?auto=format&fit=crop&w=800&q=80",
+  "description": "An evergreen woody perennial with needle-like leaves and pine-like fragrance. Essential for roasting meats and root vegetables.",
+  "growingConditions": {
+    "sunlight": "Full sun",
+    "watering": "Allow soil to dry out between waterings",
+    "hardinessZone": "Zones 7-10",
+    "soilType": "Well-drained, sandy soil"
+  },
+  "uses": [
+    "Roasted potatoes and meats seasoning",
+    "Infused in artisan breads like focaccia",
+    "Antioxidant-rich herbal infusions"
+  ],
+  "pairings": [
+    "Garlic",
+    "Lamb",
+    "Potatoes",
+    "Olive Oil",
+    "Thyme"
+  ],
+  "video": {
+    "title": "Rosemary Growing Guide: Planting, Growing & Propagation",
+    "youtubeId": "Lr35gagWw6Y"
+  },
+  "medicinal": {
+    "uses": [
+      "Rosemary tea traditionally used to aid digestion and ease headaches",
+      "Aroma associated in folk use with alertness and memory",
+      "Infused oil massaged into muscles for aches and stiffness"
+    ],
+    "benefits": [
+      "High in antioxidants, including rosmarinic and carnosic acid",
+      "Has natural antimicrobial properties that help preserve food",
+      "May support circulation and reduce minor inflammation"
+    ],
+    "caution": "Rosemary in medicinal amounts is not recommended during pregnancy. Cooking amounts are generally safe."
+  }
+}
