@@ -1,0 +1,45 @@
+{
+  "id": "lavender",
+  "name": "English Lavender",
+  "botanicalName": "Lavandula angustifolia",
+  "family": "Lamiaceae (Mint family)",
+  "category": "Aromatic & Medicinal",
+  "image": "https://images.unsplash.com/photo-1528183429752-a97d0bf99b5a?auto=format&fit=crop&w=800&q=80",
+  "description": "Famous for its fragrant purple blooms, Lavender is prized for its soothing essential oils, peaceful fragrance, and medicinal properties that promote restful sleep and reduce stress.",
+  "growingConditions": {
+    "sunlight": "Full sun (8+ hours ideal)",
+    "watering": "Low water requirement once established; drought tolerant",
+    "hardinessZone": "Zones 5-9",
+    "soilType": "Sandy, lean, gravelly, alkaline soil"
+  },
+  "uses": [
+    "Aromatherapy for stress reduction and sleep improvement",
+    "Infused in herbal teas, lemonade, and delicate pastries",
+    "Dried sachets for closet fresheners and essential oil extraction",
+    "Attracts beneficial pollinators like bees and butterflies"
+  ],
+  "pairings": [
+    "Honey",
+    "Lemon",
+    "Vanilla",
+    "Shortbread",
+    "Earl Grey"
+  ],
+  "video": {
+    "title": "Growing and caring for lavender plants",
+    "youtubeId": "HjctDngwOzY"
+  },
+  "medicinal": {
+    "uses": [
+      "Aromatherapy and pillow sachets to encourage relaxation and restful sleep",
+      "Tea or diluted oil traditionally used for stress and nervous tension",
+      "Diluted oil applied to minor burns, insect bites and headaches in folk practice"
+    ],
+    "benefits": [
+      "Calming scent shown in small studies to reduce feelings of anxiety",
+      "Contains linalool and linalyl acetate, aromatic compounds linked to relaxation",
+      "Mild antiseptic properties used for skin care"
+    ],
+    "caution": "Never swallow lavender essential oil, and always dilute it before it touches the skin, as it can cause irritation in some people."
+  }
+}
