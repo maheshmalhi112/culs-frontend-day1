@@ -1,0 +1,52 @@
+{
+  "testimonials": [
+    {
+      "herb": "basil",
+      "name": "Dr. Meera Iyer",
+      "role": "Clinical Nutritionist",
+      "quote": "Keep a pot of basil on the windowsill. A few fresh leaves in salads and soups add flavor without salt, plus antioxidants and vitamin K."
+    },
+    {
+      "herb": "mint",
+      "name": "Dr. Daniel Okafor",
+      "role": "Gastroenterologist",
+      "quote": "A cup of fresh mint tea after dinner can calm mild indigestion and bloating thanks to its cooling menthol. Go gently if you get acid reflux."
+    },
+    {
+      "herb": "lavender",
+      "name": "Dr. Sofia Marchetti",
+      "role": "Sleep Medicine Specialist",
+      "quote": "A lavender sachet by the pillow and a warm cup of tea make a calming bedtime routine. Never swallow the essential oil."
+    },
+    {
+      "herb": "rosemary",
+      "name": "Dr. Arjun Rao",
+      "role": "Preventive Medicine Specialist",
+      "quote": "Rub rosemary on roast vegetables for flavor and antioxidants. Its fresh scent helps many people feel alert. Avoid medicinal doses in pregnancy."
+    },
+    {
+      "herb": "thyme",
+      "name": "Dr. Helen Brooks",
+      "role": "Respiratory Physician",
+      "quote": "Honey-sweetened thyme tea is an old comfort for a scratchy throat or cough. Thymol has antibacterial properties. See your doctor if a cough lingers."
+    },
+    {
+      "herb": "sage",
+      "name": "Dr. Karel Novak",
+      "role": "Clinical Pharmacist",
+      "quote": "Fry sage in brown butter, or use a cooled infusion as a sore-throat gargle. Stick to food and tea amounts, and avoid medicinal doses in pregnancy."
+    },
+    {
+      "herb": "chamomile",
+      "name": "Dr. Priya Shah",
+      "role": "Integrative Medicine Physician",
+      "quote": "A warm cup of chamomile in the evening helps many people unwind and can ease an upset stomach. Check first if you are allergic to ragweed or daisies."
+    },
+    {
+      "herb": "chives",
+      "name": "Tomas Lindqvist",
+      "role": "Registered Dietitian",
+      "quote": "Snip chives over eggs or potatoes for flavor with almost no calories, plus vitamins K and C. Keep the pot away from cats and dogs."
+    }
+  ]
+}
