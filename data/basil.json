@@ -1,0 +1,45 @@
+{
+  "id": "basil",
+  "name": "Basil",
+  "botanicalName": "Ocimum basilicum",
+  "family": "Lamiaceae (Mint family)",
+  "category": "Culinary",
+  "image": "https://images.unsplash.com/photo-1608683266952-169fefbc392e?auto=format&fit=crop&w=800&q=80",
+  "description": "Sweet Basil is one of the most popular culinary herbs worldwide. Known for its distinct, fragrant aroma and sweet, slightly spicy cloves-and-anise flavor, it is the crowning glory of caprese salads and traditional Italian pesto.",
+  "growingConditions": {
+    "sunlight": "Full sun (6-8 hours daily)",
+    "watering": "Moist, well-drained soil; water deeply when top inch is dry",
+    "hardinessZone": "Annual (Zones 2-11), Perennial in 10-11",
+    "soilType": "Rich, loamy, well-draining soil with neutral pH"
+  },
+  "uses": [
+    "Key ingredient in traditional Genovese pesto",
+    "Complements tomato dishes, pizzas, and fresh mozzarella",
+    "Infused in oils, vinegars, and herbal teas",
+    "Provides soothing mild antibacterial properties"
+  ],
+  "pairings": [
+    "Tomatoes",
+    "Garlic",
+    "Olive Oil",
+    "Pine Nuts",
+    "Mozzarella"
+  ],
+  "video": {
+    "title": "How to Grow Basil (Complete Guide to Harvest)",
+    "youtubeId": "HMpGlnaAXcw"
+  },
+  "medicinal": {
+    "uses": [
+      "Traditionally taken as a tea to settle mild digestive upset and bloating",
+      "Leaves and oil used in folk remedies for minor inflammation and colds",
+      "Aroma commonly used to help lift mood and ease tension"
+    ],
+    "benefits": [
+      "Rich in vitamin K, which supports normal blood clotting and bone health",
+      "Contains antioxidants such as flavonoids and eugenol",
+      "Provides small amounts of vitamin A, manganese and iron"
+    ],
+    "caution": "Basil is high in vitamin K, so people taking blood thinners such as warfarin should ask their doctor before eating large amounts."
+  }
+}
