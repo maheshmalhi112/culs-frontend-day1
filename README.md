@@ -1,8 +1,6 @@
 # The Little Herb Garden
-Group Members:
-1. Mahesh Kumar.
-2. Krunal Pandya
-3. Shrey
+Modified by:
+Mahesh Kumar.
 
 A small website for day 1 of Frontend Development.
 
