@@ -41,5 +41,62 @@
       "Provides small amounts of vitamin A, manganese and iron"
     ],
     "caution": "Basil is high in vitamin K, so people taking blood thinners such as warfarin should ask their doctor before eating large amounts."
+  },
+  "taste": "Sweet and fragrant with a peppery, clove-and-anise note.",
+  "filters": {
+    "medicinal": [
+      "Digestion",
+      "Antioxidant support"
+    ],
+    "flavor": [
+      "Sweet",
+      "Peppery"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "lifecycle": "Annual",
+    "plantType": "Leafy herb",
+    "usedFor": [
+      "Culinary",
+      "Tea"
+    ],
+    "sun": [
+      "Full sun"
+    ],
+    "water": "Moderate"
+  },
+  "sideEffects": [
+    "Very large amounts may affect blood clotting because of the vitamin K",
+    "Concentrated basil oil or extract can irritate the stomach or skin",
+    "Rarely causes an allergic reaction in people sensitive to other mint-family plants"
+  ],
+  "safety": {
+    "allergy": "Basil belongs to the mint family. People who react to mint, oregano or thyme may also react to basil. Stop using it if you get itching, a rash or swelling.",
+    "pregnancy": "Normal food amounts are considered safe. Avoid concentrated extracts and medicinal doses unless a doctor agrees.",
+    "pets": "Basil is generally regarded as non-toxic to cats and dogs, but large amounts can upset their stomach.",
+    "medications": "Basil is rich in vitamin K, so people taking blood thinners such as warfarin should keep their intake steady and ask their doctor.",
+    "petSafe": true
+  },
+  "temperature": "Loves warmth: it grows best at about 18-30 °C. Cold below about 10 °C slows it down, and frost kills it. Plant outside only after the last frost.",
+  "soilPh": "6.0-7.5",
+  "harvest": "Start picking when the plant has about six leaves, ideally in the morning. Pinch the stem just above a pair of leaves so two new shoots grow. Take no more than a third of the plant at once and remove flower buds to keep the leaves tasty.",
+  "storage": "Do not put basil in the fridge, because cold turns the leaves black. Keep the stems in a glass of water on the counter for up to a week, or chop and freeze it in olive oil or ice cubes. Drying loses much of its flavor.",
+  "dailyLife": [
+    "Tear fresh leaves over tomato salad, pizza or pasta just before serving",
+    "Blend into pesto with olive oil, nuts and cheese",
+    "Add to a cup of warm water or tea after a heavy meal",
+    "Keep a pot on the kitchen windowsill for easy picking"
+  ],
+  "tips": [
+    "Pinch off flower buds regularly to keep the plant bushy",
+    "Plant it near tomatoes, they like the same warm sunny spot",
+    "Water the soil rather than the leaves to avoid mildew"
+  ],
+  "origin": {
+    "region": "Tropical Asia (India)",
+    "lat": 22,
+    "lng": 79,
+    "details": "Basil has been grown in India and tropical Asia for thousands of years. Traders carried it west to the Mediterranean, where it became the heart of Italian cooking."
   }
 }
