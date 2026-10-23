@@ -40,5 +40,67 @@
       "May support circulation and reduce minor inflammation"
     ],
     "caution": "Rosemary in medicinal amounts is not recommended during pregnancy. Cooking amounts are generally safe."
+  },
+  "taste": "Piney, woody and slightly peppery, with a lemony hint.",
+  "filters": {
+    "medicinal": [
+      "Memory & focus",
+      "Digestion",
+      "Antioxidant support"
+    ],
+    "flavor": [
+      "Piney",
+      "Earthy"
+    ],
+    "season": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "lifecycle": "Perennial",
+    "plantType": "Woody shrub",
+    "usedFor": [
+      "Culinary",
+      "Aromatic",
+      "Tea"
+    ],
+    "sun": [
+      "Full sun"
+    ],
+    "water": "Low"
+  },
+  "sideEffects": [
+    "Large medicinal amounts can upset the stomach",
+    "Rosemary oil can irritate the skin",
+    "May raise blood pressure in sensitive people when taken in large amounts"
+  ],
+  "safety": {
+    "allergy": "Rosemary is a mint-family plant, so allergic reactions are possible in people sensitive to it. Rosemary oil can cause skin rashes.",
+    "pregnancy": "Cooking amounts are fine, but medicinal amounts are not recommended during pregnancy.",
+    "pets": "Rosemary is generally regarded as non-toxic to cats and dogs in small amounts, but the essential oil is not safe for them.",
+    "medications": "Large amounts may affect blood thinners, blood pressure medicines and some other drugs. Ask your doctor if you take them.",
+    "petSafe": true
+  },
+  "temperature": "Likes warmth and sun, at about 15-30 °C. Many types survive about -10 °C, but a hard frost can kill it, so protect it or bring pots inside.",
+  "soilPh": "6.0-7.5",
+  "harvest": "Snip 5-8 cm tips of fresh, soft growth at any time of year. Never take more than a third of the plant at once, and do not cut into bare woody stems, because they rarely regrow.",
+  "storage": "Wrap fresh sprigs in a damp paper towel in the fridge for up to two weeks. Rosemary dries very well when hung in bunches, and sprigs can be frozen whole.",
+  "dailyLife": [
+    "Roast with potatoes, chicken, lamb or vegetables",
+    "Stir into bread dough or olive oil",
+    "Use woody stems as skewers for grilling",
+    "Brew a sprig in hot water for an aromatic tea"
+  ],
+  "tips": [
+    "Water only when the soil is dry, as too much water causes root rot",
+    "Grow it by a sunny wall for shelter",
+    "Bring potted plants indoors in cold climates"
+  ],
+  "origin": {
+    "region": "Mediterranean coast (Spain, Portugal and Italy)",
+    "lat": 39,
+    "lng": -3.5,
+    "details": "Rosemary grows wild on the dry, sunny hills along the Mediterranean coast. Its Latin name means dew of the sea."
   }
 }
