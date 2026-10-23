@@ -41,5 +41,65 @@
       "May help relax digestive muscles and ease discomfort after meals"
     ],
     "caution": "Mint can worsen acid reflux in some people. Concentrated mint oils should not be used on or near the face of babies and young children."
+  },
+  "taste": "Cool, fresh and sweet, with a menthol tingle.",
+  "filters": {
+    "medicinal": [
+      "Digestion",
+      "Cough & throat"
+    ],
+    "flavor": [
+      "Minty",
+      "Sweet"
+    ],
+    "season": [
+      "Spring",
+      "Summer",
+      "Autumn"
+    ],
+    "lifecycle": "Perennial",
+    "plantType": "Leafy herb",
+    "usedFor": [
+      "Culinary",
+      "Tea"
+    ],
+    "sun": [
+      "Full sun",
+      "Partial shade"
+    ],
+    "water": "High"
+  },
+  "sideEffects": [
+    "Can make heartburn and acid reflux worse in some people",
+    "Concentrated mint oil should not be put on or near the face of babies and young children",
+    "Large amounts of mint tea may upset the stomach"
+  ],
+  "safety": {
+    "allergy": "Mint allergy is uncommon but possible, and people allergic to other mint-family plants can react to it. Stop using it if you get a rash, itching or swelling.",
+    "pregnancy": "Mint in food and tea amounts is generally considered fine. Avoid strong mint oils and ask a doctor about medicinal doses.",
+    "pets": "Mint can cause an upset stomach in cats and dogs, and mint oil can be harmful, so keep the plant and oils out of reach.",
+    "medications": "Mint can relax the muscle between the stomach and food pipe, which may worsen reflux. Ask your doctor if you take reflux or stomach medicines.",
+    "petSafe": false
+  },
+  "temperature": "A tough, hardy plant that grows well at about 15-25 °C. It dies back in winter and returns in spring.",
+  "soilPh": "6.0-7.0",
+  "harvest": "Cut stems in the morning once the dew has dried and before the plant flowers. Cut just above a pair of leaves and take up to half of a stem. Regular cutting keeps it bushy and productive all season.",
+  "storage": "Stand the stems in a glass of water in the fridge with a loose bag on top for about a week. Mint freezes well in ice cubes, and bunches can be hung upside down in a dry place to dry.",
+  "dailyLife": [
+    "Brew fresh leaves in hot water as a tea after dinner",
+    "Add to water, lemonade or yogurt for a cool taste",
+    "Chew a leaf to freshen breath",
+    "Toss into salads, tabbouleh and peas"
+  ],
+  "tips": [
+    "Grow it in a pot, because mint spreads fast and can take over a bed",
+    "Keep the soil moist, it dislikes drying out",
+    "Cut it back hard after flowering for a fresh flush of leaves"
+  ],
+  "origin": {
+    "region": "Southern Europe and southwest Asia",
+    "lat": 37,
+    "lng": 34,
+    "details": "Spearmint is native to southern Europe and southwest Asia and has been used since ancient times. Today it grows wild in damp places on almost every continent."
   }
 }
