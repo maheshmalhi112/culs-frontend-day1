@@ -42,5 +42,65 @@
   "video": {
     "title": "How To Grow, Harvest & Make Chamomile Tea",
     "youtubeId": "CNCw7z_KjE4"
+  },
+  "taste": "Gentle, sweet and floral, with a honey and apple-like flavor.",
+  "filters": {
+    "medicinal": [
+      "Relaxation & sleep",
+      "Digestion",
+      "Skin care"
+    ],
+    "flavor": [
+      "Floral",
+      "Sweet",
+      "Apple-like"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "lifecycle": "Annual",
+    "plantType": "Flowering herb",
+    "usedFor": [
+      "Tea",
+      "Aromatic"
+    ],
+    "sun": [
+      "Full sun",
+      "Partial shade"
+    ],
+    "water": "Moderate"
+  },
+  "sideEffects": [
+    "Can cause allergic reactions in people allergic to ragweed, daisies, marigolds or chrysanthemums",
+    "May cause drowsiness",
+    "Very strong tea can sometimes cause nausea"
+  ],
+  "safety": {
+    "allergy": "Chamomile belongs to the daisy family. People allergic to ragweed, daisies, marigolds or chrysanthemums may get hay fever symptoms, a rash or, rarely, a serious reaction. Stop using it and see a doctor if you feel unwell.",
+    "pregnancy": "Ask your doctor before using chamomile regularly during pregnancy.",
+    "pets": "Chamomile can be toxic to cats and dogs and may cause an upset stomach or skin irritation, so keep them away from the plant.",
+    "medications": "Chamomile may add to sleepy effects of sedatives and may affect blood thinners such as warfarin. Ask your doctor if you take them.",
+    "petSafe": false
+  },
+  "temperature": "A cool-season herb. Seeds sprout at about 15-21 °C, plants grow best at about 15-25 °C, and German chamomile can tolerate a light frost.",
+  "soilPh": "5.6-7.5",
+  "harvest": "Pick the flower heads when the petals are flat or just starting to droop, in dry mid-morning. Harvest every few days, because picking encourages more flowers.",
+  "storage": "Spread the flowers on a screen in a shady, airy place until crisp, which takes one to two weeks. Store in an airtight jar away from light for up to a year.",
+  "dailyLife": [
+    "Brew dried flowers as an evening tea",
+    "Add a few fresh flowers to salads or desserts",
+    "Use a cooled tea as a gentle skin rinse",
+    "Infuse in honey or syrup"
+  ],
+  "tips": [
+    "Sow seeds on the surface, because they need light to sprout",
+    "Let a few flowers go to seed so it self-sows next year",
+    "It does well in poor soil, too much feeding gives fewer flowers"
+  ],
+  "origin": {
+    "region": "Europe and western Asia",
+    "lat": 49,
+    "lng": 15,
+    "details": "German chamomile is native to central and eastern Europe and western Asia. It has been brewed as a calming drink since ancient Egypt, Greece and Rome."
   }
 }
