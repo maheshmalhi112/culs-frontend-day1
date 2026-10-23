@@ -42,5 +42,65 @@
   "video": {
     "title": "Sage Growing Guide: Plant, Care, Prune, Harvest & Dry",
     "youtubeId": "3VhWsdQ1DXg"
+  },
+  "taste": "Earthy, peppery and slightly minty, with a warm, savory depth.",
+  "filters": {
+    "medicinal": [
+      "Cough & throat",
+      "Digestion",
+      "Memory & focus"
+    ],
+    "flavor": [
+      "Earthy",
+      "Peppery"
+    ],
+    "season": [
+      "Spring",
+      "Summer",
+      "Autumn"
+    ],
+    "lifecycle": "Perennial",
+    "plantType": "Woody shrub",
+    "usedFor": [
+      "Culinary",
+      "Tea"
+    ],
+    "sun": [
+      "Full sun"
+    ],
+    "water": "Low"
+  },
+  "sideEffects": [
+    "Common sage contains thujone, which can be harmful in large amounts or over a long time",
+    "Large doses can cause restlessness, dizziness or, rarely, seizures",
+    "The essential oil is strong and should not be swallowed"
+  ],
+  "safety": {
+    "allergy": "Sage is a mint-family plant, so allergic reactions are possible in people sensitive to similar herbs.",
+    "pregnancy": "Avoid medicinal amounts and sage oil during pregnancy. Food amounts are generally fine.",
+    "pets": "Sage is generally regarded as non-toxic to cats and dogs, but the essential oil is not safe for them.",
+    "medications": "Sage may affect blood sugar medicines and anti-seizure medicines. People with epilepsy should avoid medicinal doses.",
+    "petSafe": true
+  },
+  "temperature": "Hardy and tough. Common sage survives winter cold of about -20 °C and copes with summer heat. It grows best at about 15-30 °C.",
+  "soilPh": "6.0-7.5",
+  "harvest": "Pick leaves whenever the plant is established, but take only a little in the first year. The flavor is best before the plant flowers. Never take more than a third at once, and cut stems back just above a leaf pair.",
+  "storage": "Wrap fresh leaves in a damp paper towel in the fridge for about a week. Hang small bunches to dry in a warm, airy place, or freeze whole leaves.",
+  "dailyLife": [
+    "Fry leaves in brown butter for pasta and gnocchi",
+    "Add to stuffing, sausages and roast pork",
+    "Use a cooled infusion as a gargle for a sore throat",
+    "Brew a leaf or two as a tea"
+  ],
+  "tips": [
+    "Cut back by about a third each spring to keep it from getting woody",
+    "Choose a sunny spot with sharp drainage",
+    "Replace plants every few years, because old ones get leggy"
+  ],
+  "origin": {
+    "region": "Northern Mediterranean (Balkans and Italy)",
+    "lat": 44,
+    "lng": 16,
+    "details": "Common sage is native to the northern Mediterranean, especially the Balkan coast. Its Latin name comes from a word meaning to heal."
   }
 }
