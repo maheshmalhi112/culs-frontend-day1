@@ -41,5 +41,61 @@
       "Mild antiseptic properties used for skin care"
     ],
     "caution": "Never swallow lavender essential oil, and always dilute it before it touches the skin, as it can cause irritation in some people."
+  },
+  "taste": "Floral and slightly sweet, with a herbal, piney edge. A little goes a long way.",
+  "filters": {
+    "medicinal": [
+      "Relaxation & sleep",
+      "Skin care"
+    ],
+    "flavor": [
+      "Floral"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "lifecycle": "Perennial",
+    "plantType": "Flowering shrub",
+    "usedFor": [
+      "Aromatic",
+      "Tea"
+    ],
+    "sun": [
+      "Full sun"
+    ],
+    "water": "Low"
+  },
+  "sideEffects": [
+    "Lavender essential oil must never be swallowed",
+    "Undiluted oil can irritate the skin",
+    "Can cause drowsiness, so be careful when driving after strong lavender products"
+  ],
+  "safety": {
+    "allergy": "Lavender oil can cause skin rashes in some people. Test a diluted drop on the inner arm first, and stop using it if the skin itches or turns red.",
+    "pregnancy": "Cooking amounts and gentle scent are generally fine, but avoid essential oil and medicinal doses unless a doctor agrees.",
+    "pets": "Lavender can upset the stomach of cats and dogs, and the oil can be harmful, so keep both out of reach.",
+    "medications": "Lavender may add to the sleepy effect of sedatives and sleeping tablets. Ask your doctor if you take them.",
+    "petSafe": false
+  },
+  "temperature": "Loves hot, dry summers. English lavender copes with winter cold of around -15 °C if the soil stays dry, but it hates wet winter roots.",
+  "soilPh": "6.5-8.0",
+  "harvest": "Cut the flower stems when about half of the buds on a spike have opened, in the morning after the dew has dried. Cut above the leaves and leave some green growth. Do not cut into old bare wood, because it will not regrow.",
+  "storage": "Tie small bunches and hang them upside down in a dark, airy place for two to four weeks. When crisp, rub the buds off and keep them in an airtight jar away from light for up to a year.",
+  "dailyLife": [
+    "Put a dried sachet near the pillow for a calming bedtime scent",
+    "Add a few buds to shortbread, honey or sugar",
+    "Brew a small pinch of buds as a relaxing tea",
+    "Hang a bunch in a wardrobe to freshen clothes"
+  ],
+  "tips": [
+    "Give it plenty of sun and very good drainage",
+    "Trim lightly after flowering, but never into old wood",
+    "Poor, stony soil gives the strongest scent"
+  ],
+  "origin": {
+    "region": "Western Mediterranean (France and Spain)",
+    "lat": 43,
+    "lng": 4,
+    "details": "English lavender comes from the mountains of the western Mediterranean. The fields of southern France are famous for it."
   }
 }
