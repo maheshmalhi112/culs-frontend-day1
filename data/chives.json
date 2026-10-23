@@ -42,5 +42,63 @@
   "video": {
     "title": "How to Plant and Grow Perennial Chives",
     "youtubeId": "DTwt-jdaROI"
+  },
+  "taste": "Mild, fresh and savory, like a gentle spring onion.",
+  "filters": {
+    "medicinal": [
+      "Digestion",
+      "Antioxidant support"
+    ],
+    "flavor": [
+      "Oniony"
+    ],
+    "season": [
+      "Spring",
+      "Summer",
+      "Autumn"
+    ],
+    "lifecycle": "Perennial",
+    "plantType": "Bulb / grass-like herb",
+    "usedFor": [
+      "Culinary"
+    ],
+    "sun": [
+      "Full sun",
+      "Partial shade"
+    ],
+    "water": "Moderate"
+  },
+  "sideEffects": [
+    "Large amounts can upset the stomach or cause gas",
+    "The high vitamin K content can affect blood thinners",
+    "Toxic to cats and dogs"
+  ],
+  "safety": {
+    "allergy": "Chives belong to the onion family. People allergic to onions, garlic or leeks may react to chives.",
+    "pregnancy": "Normal food amounts are considered safe.",
+    "pets": "Chives, like onions and garlic, are toxic to cats and dogs and can damage their red blood cells. Keep pets away from the plant.",
+    "medications": "Chives contain vitamin K, so people on warfarin should keep their intake steady and ask their doctor.",
+    "petSafe": false
+  },
+  "temperature": "Extremely hardy. Chives survive winter cold of about -30 °C, die back in winter and regrow in spring. They grow best at about 15-25 °C.",
+  "soilPh": "6.0-7.0",
+  "harvest": "Cut the leaves 2-5 cm above the ground with scissors, starting when they are about 15 cm tall. Harvest the outer leaves first or cut the whole clump back and it will regrow. Pick the flowers just as they open.",
+  "storage": "Keep fresh chives in a glass of water or in a bag in the fridge for one to two weeks. Chop and freeze them for later. Drying loses most of their flavor.",
+  "dailyLife": [
+    "Snip over scrambled eggs, baked potatoes and soups",
+    "Stir into cream cheese, sour cream or yogurt dips",
+    "Scatter the purple flowers over salads",
+    "Use instead of salt to add flavor"
+  ],
+  "tips": [
+    "Divide clumps every three or four years to keep them strong",
+    "Cut flower stems if you want more leaves",
+    "Plant near carrots and tomatoes as a companion"
+  ],
+  "origin": {
+    "region": "Europe, Asia and North America (cool northern regions)",
+    "lat": 58,
+    "lng": 15,
+    "details": "Chives grow wild across the cooler parts of Europe, Asia and North America. They are the only onion-family plant found naturally on both sides of the Atlantic."
   }
 }
