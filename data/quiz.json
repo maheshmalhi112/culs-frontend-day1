@@ -1,0 +1,180 @@
+{
+  "questions": [
+    {
+      "question": "Which herb is the main ingredient of classic pesto?",
+      "answer": "Basil",
+      "wrong": [
+        "Mint",
+        "Sage",
+        "Chives"
+      ],
+      "explanation": "Basil is blended with olive oil, nuts and cheese to make Genovese pesto.",
+      "herb": "basil"
+    },
+    {
+      "question": "Which herb is a well-known calming tea to drink in the evening?",
+      "answer": "Chamomile",
+      "wrong": [
+        "Rosemary",
+        "Chives",
+        "Thyme"
+      ],
+      "explanation": "Chamomile tea is a classic bedtime drink for relaxing.",
+      "herb": "chamomile"
+    },
+    {
+      "question": "Which herb is best known for a relaxing scent used in pillow sachets?",
+      "answer": "Lavender",
+      "wrong": [
+        "Basil",
+        "Sage",
+        "Mint"
+      ],
+      "explanation": "Lavender's calming scent is linked to feeling less anxious and more ready for sleep.",
+      "herb": "lavender"
+    },
+    {
+      "question": "Which herb belongs to the onion family?",
+      "answer": "Chives",
+      "wrong": [
+        "Basil",
+        "Thyme",
+        "Lavender"
+      ],
+      "explanation": "Chives are in the onion family and taste like a mild spring onion.",
+      "herb": "chives"
+    },
+    {
+      "question": "Which herb contains thymol, a compound with antibacterial properties?",
+      "answer": "Thyme",
+      "wrong": [
+        "Mint",
+        "Chamomile",
+        "Basil"
+      ],
+      "explanation": "Thymol is the main compound in thyme and gives it its antiseptic reputation.",
+      "herb": "thyme"
+    },
+    {
+      "question": "Which herb is often fried in brown butter for pasta and gnocchi?",
+      "answer": "Sage",
+      "wrong": [
+        "Lavender",
+        "Mint",
+        "Chives"
+      ],
+      "explanation": "Fried sage leaves turn crisp and nutty in brown butter.",
+      "herb": "sage"
+    },
+    {
+      "question": "Which herb's tea is traditionally used to ease indigestion and bloating after a meal?",
+      "answer": "Mint",
+      "wrong": [
+        "Lavender",
+        "Rosemary",
+        "Chives"
+      ],
+      "explanation": "The cooling menthol in mint helps the stomach feel calm.",
+      "herb": "mint"
+    },
+    {
+      "question": "Which evergreen herb with needle-like leaves is often roasted with potatoes and lamb?",
+      "answer": "Rosemary",
+      "wrong": [
+        "Basil",
+        "Chamomile",
+        "Chives"
+      ],
+      "explanation": "Rosemary's woody, piney leaves are perfect with roast meat and vegetables.",
+      "herb": "rosemary"
+    },
+    {
+      "question": "Which herb in the garden is toxic to cats and dogs?",
+      "answer": "Chives",
+      "wrong": [
+        "Basil",
+        "Rosemary",
+        "Thyme"
+      ],
+      "explanation": "Chives and other onion-family plants can harm pets, so keep them out of reach.",
+      "herb": "chives"
+    },
+    {
+      "question": "Which herb originally comes from India and tropical Asia?",
+      "answer": "Basil",
+      "wrong": [
+        "Lavender",
+        "Sage",
+        "Chamomile"
+      ],
+      "explanation": "Basil was grown in India for thousands of years before it reached the Mediterranean.",
+      "herb": "basil"
+    },
+    {
+      "question": "Which herb may cause a reaction in people allergic to ragweed or daisies?",
+      "answer": "Chamomile",
+      "wrong": [
+        "Mint",
+        "Rosemary",
+        "Basil"
+      ],
+      "explanation": "Chamomile is in the daisy family, so people with daisy-family allergies should be careful.",
+      "herb": "chamomile"
+    },
+    {
+      "question": "Which herb contains thujone and should only be used in food and tea amounts?",
+      "answer": "Sage",
+      "wrong": [
+        "Basil",
+        "Chives",
+        "Lavender"
+      ],
+      "explanation": "Thujone can be harmful in large amounts, so sage is kept to food and tea amounts.",
+      "herb": "sage"
+    },
+    {
+      "question": "Which herb spreads so fast that it is usually grown in a pot?",
+      "answer": "Mint",
+      "wrong": [
+        "Thyme",
+        "Lavender",
+        "Rosemary"
+      ],
+      "explanation": "Mint sends out runners and can take over a garden bed, so a pot keeps it in check.",
+      "herb": "mint"
+    },
+    {
+      "question": "Which of these herbs needs very little water and hates wet winter roots?",
+      "answer": "Lavender",
+      "wrong": [
+        "Mint",
+        "Chives",
+        "Basil"
+      ],
+      "explanation": "Lavender comes from dry Mediterranean hills and prefers sharp drainage.",
+      "herb": "lavender"
+    },
+    {
+      "question": "Where should you keep fresh basil to stop the leaves turning black?",
+      "answer": "On the counter in a glass of water",
+      "wrong": [
+        "In the coldest part of the fridge",
+        "In the freezer without any oil",
+        "In direct sun on a hot windowsill"
+      ],
+      "explanation": "Basil dislikes the cold, so keep the stems in water at room temperature.",
+      "herb": "basil"
+    },
+    {
+      "question": "Which herb has edible round purple pom-pom flowers?",
+      "answer": "Chives",
+      "wrong": [
+        "Rosemary",
+        "Sage",
+        "Mint"
+      ],
+      "explanation": "Chive flowers are edible and look lovely in salads.",
+      "herb": "chives"
+    }
+  ]
+}
