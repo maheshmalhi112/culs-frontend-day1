@@ -40,5 +40,64 @@
       "Antioxidants help protect cells from everyday damage"
     ],
     "caution": "Thyme essential oil is very strong and must be diluted. Culinary and tea amounts are considered safe for most people."
+  },
+  "taste": "Earthy and warm, with subtle lemon and mint notes.",
+  "filters": {
+    "medicinal": [
+      "Cough & throat",
+      "Antioxidant support"
+    ],
+    "flavor": [
+      "Earthy",
+      "Lemony"
+    ],
+    "season": [
+      "Spring",
+      "Summer",
+      "Autumn"
+    ],
+    "lifecycle": "Perennial",
+    "plantType": "Low-growing shrub",
+    "usedFor": [
+      "Culinary",
+      "Tea"
+    ],
+    "sun": [
+      "Full sun"
+    ],
+    "water": "Low"
+  },
+  "sideEffects": [
+    "Thyme essential oil is very strong and can irritate the skin and mouth",
+    "Large medicinal amounts may upset the stomach",
+    "Rarely causes allergic reactions in people sensitive to mint-family plants"
+  ],
+  "safety": {
+    "allergy": "Thyme is a mint-family plant, so people who react to oregano, mint or lavender may react to it. Stop using it if you get a rash or swelling.",
+    "pregnancy": "Normal cooking amounts are considered safe. Avoid medicinal doses and the oil unless a doctor agrees.",
+    "pets": "Thyme is generally regarded as safe for cats and dogs in small amounts, but the essential oil is not.",
+    "medications": "Thyme in food amounts is not known to cause problems, but ask your doctor about concentrated extracts if you take blood thinners.",
+    "petSafe": true
+  },
+  "temperature": "Very hardy: common thyme survives winter cold of about -20 °C and also copes with hot, dry summers. It grows best at about 15-30 °C.",
+  "soilPh": "6.0-8.0",
+  "harvest": "Snip stems just above a pair of leaves at any time, but the flavor is best just before the plant flowers. Cut little and often, and leave the woody base to regrow.",
+  "storage": "Keep fresh sprigs in a damp paper towel in the fridge for about two weeks. Thyme dries extremely well and keeps its flavor, and it can also be frozen on the stem.",
+  "dailyLife": [
+    "Add whole sprigs to soups, stews and roasts",
+    "Make honey-sweetened thyme tea for a scratchy throat",
+    "Rub on chicken or fish before cooking",
+    "Mix into butter or olive oil"
+  ],
+  "tips": [
+    "Plant it in gritty, free-draining soil",
+    "Trim after flowering so it stays compact",
+    "Let it spill over a wall or path, it likes to be stepped on lightly"
+  ],
+  "origin": {
+    "region": "Southern Europe and the Mediterranean (Greece, Italy and Spain)",
+    "lat": 39.5,
+    "lng": 22,
+    "details": "Thyme grows wild on the dry hills of southern Europe. The ancient Greeks burned it as incense and used it for courage and cleansing."
   }
 }
